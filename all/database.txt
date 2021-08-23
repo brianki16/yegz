@@ -1,0 +1,5 @@
+ensuring that the records in the database have not been altered
+=access control
+=validation and verification
+is a process whereby the data entered in the database is checked to make . It cannot check whether or not the data entered is
+1. Inbuilt/ developed within an organization 2. 3rd Party developing the database on behalf of the company/organization correc
